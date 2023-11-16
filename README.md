@@ -10,7 +10,7 @@ Grace Smith-Vidaurre, PhD: <span style="pointer-events:none">gsvidaurre[at]<span
 https://github.com/lastralab/Abissmal/wiki
 
 <h2>Tracking System Overview</h2>
-ABISSMAL is a hardware and software platform for automated behavioral tracking with built-in system monitoring and error logging. ABISSMAL also provides the capacity to make behavioral inferences by integrating data across multiple types of movement sensors. We tested the tracking system by tracking parental care behaviors with captive zebra finches that raised young birds over 50 days. See the accompanying methods manuscript for more detailed information about ABISSMAL (TKTK add the preprint citation). Our Wiki page has detailed information about how to set up and build hardware, as well as software installation and troubleshooting.
+ABISSMAL is a hardware and software platform for automated behavioral tracking with built-in system monitoring and error logging. ABISSMAL also provides the capacity to make behavioral inferences by integrating data across multiple types of movement sensors. We tested the tracking system by tracking parental care behaviors with captive zebra finches that raised young birds over 50 days. See the accompanying methods manuscript for more detailed information about ABISSMAL. Our Wiki page has detailed information about how to set up and build hardware, as well as software installation and troubleshooting.
 
 
 <h2>Pre-requisites</h2>
@@ -79,15 +79,6 @@ This repository holds the following directories and files. See the README files 
 <li>Setting up sensors and other hardware</li> 
 <li>Troubleshooting software and hardware issues</li>
 </ol>
-<h2>Citing ABISSMAL</h2>
-If you are using or modifying one or more components of the ABISSMAL tracking system, then please cite the associated methods paper (the citation will be updated when the manuscript is accepted for publication) as well as this repository:
-
-<br>
-Paper citation: TKTK
-
-<br>
-Repository citation: TKTK
-
 
 <h2>Reporting issues while using ABISSMAL</h2>
 Anyone using ABISSMAL is welcome to post issues about bugs. We will do our best to respond and help with bugs, but our top priority will be to fix bugs that hinder data collection, system monitoring, error logging, data cleaning, and processing for the current version of ABISSMAL. 
